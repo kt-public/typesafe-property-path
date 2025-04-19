@@ -1,5 +1,17 @@
 # typesafe-property-path
 
+## 0.1.1
+
+### Patch Changes
+
+- c535b5c: dependabot: directory '/', update eslint
+- d9f2fb0: dependabot: update @changesets/cli
+- 8e46187: dependabot: update @changesets/cli
+- 831b479: dependabot: update @changesets/cli
+- b8f615d: dependabot: update @types/node
+- d9f2fb0: dependabot: update publint
+- d9f2fb0: dependabot: update typescript-eslint
+
 ## 0.1.0
 
 ### Minor Changes
