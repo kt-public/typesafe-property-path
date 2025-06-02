@@ -1,5 +1,12 @@
 # @ktarmyshov/typesafe-utilities
 
+## 0.3.1
+
+### Patch Changes
+
+- 5b653f8: dependabot: directory '/', update @types/node
+- 5b653f8: dependabot: directory '/', update eslint
+
 ## 0.3.0
 
 ### Minor Changes
